@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AdxClientLib.Properties" GeneratedClassName="Connection">
+  <Profiles />
+  <Settings>
+    <Setting Name="kustoURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://clusterName.region.kusto.windows.net</Value>
+    </Setting>
+    <Setting Name="appClientId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">todo</Value>
+    </Setting>
+    <Setting Name="appClientSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">todo</Value>
+    </Setting>
+    <Setting Name="appAadTenantId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">todo</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

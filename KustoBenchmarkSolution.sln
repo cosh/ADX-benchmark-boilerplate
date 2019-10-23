@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KustoBenchmark", "KustoBenchmark\KustoBenchmark.csproj", "{F9E4F1A7-E9A8-4E85-A672-DD62C158A9FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KustoClientLib", "KustoClientLib\KustoClientLib.csproj", "{A9CFDDB4-9AC2-4103-BAB4-1E6E884A9DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E4F1A7-E9A8-4E85-A672-DD62C158A9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E4F1A7-E9A8-4E85-A672-DD62C158A9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E4F1A7-E9A8-4E85-A672-DD62C158A9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E4F1A7-E9A8-4E85-A672-DD62C158A9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9CFDDB4-9AC2-4103-BAB4-1E6E884A9DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CFDDB4-9AC2-4103-BAB4-1E6E884A9DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CFDDB4-9AC2-4103-BAB4-1E6E884A9DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CFDDB4-9AC2-4103-BAB4-1E6E884A9DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A7A5861-A099-4DFD-9900-D6671530DF02}
+	EndGlobalSection
+EndGlobal
